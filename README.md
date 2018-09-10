@@ -1,2 +1,3 @@
 # dca1202_AllysonFranklinMB
-Questões da lista 1 de Programação avançada
+Lista de Exercícios (Ponteiros)
+Allyson Franklin Marinheiro Borges
